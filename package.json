@@ -1,0 +1,27 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Commnad Line Role Playing Game",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajdnnelly/jest-another-RPG.git"
+  },
+  "keywords": [
+    "command",
+    "line",
+    "RPG"
+  ],
+  "author": "Alex Donnelly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajdnnelly/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/ajdnnelly/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.3.0"
+  }
+}
